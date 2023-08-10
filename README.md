@@ -2,6 +2,14 @@
 
 Приложение для планирования своих задач.
 
+### Технолонии
+[![Python](https://img.shields.io/badge/-Python-464646?style=flat-square&logo=Python)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/-Django-464646?style=flat-square&logo=Django)](https://www.djangoproject.com/)
+[![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-464646?style=flat-square&logo=Django%20REST%20Framework)](https://www.django-rest-framework.org/)
+- Python 3.9
+- Django 3.2.3
+- djangorestframework 3.12.4
+
 #### Локальный запуск проекта
 
 - Склонировать репозиторий:
